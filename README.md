@@ -8,5 +8,5 @@ $ cd Orphan-hacker
 $ chmod +x *
 
 
-$ python2 orphans.py
+$ python orphans.py
 
