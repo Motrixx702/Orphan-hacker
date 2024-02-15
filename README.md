@@ -9,7 +9,7 @@ pkg install git
 
 
 git clone 
-https://github.com/Motrixx702/Orphan-hacker/blob/main/README.md
+https://github.com/Motrixx702/Orphan-hacker
 
 
 $ cd Orphan-hacker
