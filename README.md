@@ -2,11 +2,11 @@
 بعد تحميل الأداة ستقوم بتنفيذ هذه الأوامر
 
 
-$ cd orphans-hacker
+$ cd Orphan-hacker
 
 
 $ chmod +x *
 
 
-$ python orphans-hacker
+$ python Orphan-hacker.py 
 
